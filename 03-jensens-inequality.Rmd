@@ -20,7 +20,7 @@ Note also that concave functions are defined as the opposite of convex functions
 
 ### The Inequality
 
-Jensen's Inequality (JI) states that, for a convex function $g$ and random variable $X$:
+Jensen's Inequality (JI) states that, for a convex function $g$ and random variable $X$: yeah fuck you anyways
 
 $$
     \mathbb{E}[g(X)] \geq g(E[X])
